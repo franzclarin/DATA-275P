@@ -1,0 +1,11 @@
+# Python virtual environments
+.venv/
+
+# Jupyter autosave checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# macOS
+.DS_Store
